@@ -225,7 +225,8 @@ function create_config( )
     "autoaddersudo",
     "id",
     "admin",
-    "spamauto"
+    "spamauto",
+    "supergp"
     },
     sudo_users = {101564409},--Sudo users
     disabled_channels = {},
